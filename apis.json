@@ -1,0 +1,54 @@
+{
+    "name": "GatherContent",
+    "description": "<p>GatherContent creating a better way for agencies and their clients to collaborate on meaningful, future-friendly content. Conceived from the frustration of managing content-heavy digital initiatives for the Oil &amp; Gas industry, GatherContent launched in September 2012. Three short years later we now work with thousands of customers across 135 countries, managing millions of items of content.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gathercontent-logo.svg",
+    "tags": [
+        "api provider",
+        "content",
+        "content collaboration",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gathercontent\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GatherContent",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gathercontent-logo.svg",
+            "humanURL": "https:\/\/gathercontent.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gathercontent-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/gathercontent.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/gathercontent.com\/blog\/feed"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gathercontent"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gathercontent"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gathercontent.com\/"
+        }
+    ]
+}
